@@ -1,0 +1,65 @@
+{
+    
+    "chinchilla": {
+        "scale": 0.2
+    },
+    "navy": {
+        "scale": 0.31
+    },
+    "cat_cafe": {
+        "scale": 0.3
+    },
+
+
+    "pepper_jack": {
+        "scale": 0.25
+    },
+    "brie": {
+        "scale": 0.35
+    },
+
+
+    "honeycrisp": {
+        "scale": 0.3
+    },
+    "red_delicious": {
+        "scale": 0.3
+    },
+
+    
+
+    "soy_milk": {
+        "scale": 0.3
+    },
+    "reggy_milk": {
+        "scale": 0.4
+    },
+    "lactaid": {
+        "scale": 0.3
+    },
+    
+
+
+    "vfa": {
+        "scale": 0.56,
+        "type": ".jpg"
+    },
+    "lfa": {
+        "scale": 0.35
+    },
+    
+    
+    "chobani": {
+        "scale": 0.3
+    },
+    "dunkin": {
+        "scale": 0.3
+    },
+    "pig": {
+        "scale": 0.35
+    },
+    "neens": {
+        "scale": 0.45
+    }
+    
+}
